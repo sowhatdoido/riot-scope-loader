@@ -1,0 +1,14 @@
+{
+  "name": "riot-scope-loader",
+  "version": "1.0.0",
+  "description": "Converts \":scope\" to Riot scope markup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Tran (ftransd@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
